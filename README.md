@@ -1,12 +1,11 @@
-### Welcome to my GitHub Profile!! 👋
+### Bienvenido a mi Perfil de GitHub!! 👋
 
 
 
-- 🔭 I’m currently working on HackSite.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Open Source.
-- 🤔 I’m looking for help with AWS.
-- 💬 Ask me about anything, except religion, political or soccer.
-- 📫 Reach me on [Facebook](https://www.facebook.com/SaulSandovalM), [Twitter](https://twitter.com/SaulSandovalM), [Instagram](https://www.instagram.com/saulsandovalm/?hl=es-la)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love play Videogames.
+- 🔭 Actualmente trabajo en la Comunidad de HackSite.
+- 🌱 Siempre estoy tratando de aprender algo nuevo.
+- 👯 Quiero hacer Open Source.
+- 🤔 Quiza necesite ayuda base de datos.
+- 💬 Puedes preguntarme lo que sea, excepto sobre religio, politica o futbol.
+- 📫 Buscame en [Facebook](https://www.facebook.com/SaulSandovalM), [Twitter](https://twitter.com/SaulSandovalM), [Instagram](https://www.instagram.com/saulsandovalm/?hl=es-la)
+- ⚡ Me gusta jugar videojuegos.
