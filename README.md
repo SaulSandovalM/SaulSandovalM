@@ -9,4 +9,4 @@
 - 💬 Puedes preguntarme lo que sea, excepto sobre religion, politica o futbol.
 - 📫 Buscame en [Facebook](https://www.facebook.com/SaulSandovalM), [Twitter](https://twitter.com/SaulSandovalM), [Instagram](https://www.instagram.com/saulsandovalm/?hl=es-la)
 - ⚡ Me gusta jugar videojuegos.
-- !https://wakatime.com/badge/github/SaulSandovalM/Financieros.svg!:https://wakatime.com/badge/github/SaulSandovalM/Financieros
+- [![wakatime](https://wakatime.com/badge/github/SaulSandovalM/Financieros.svg)](https://wakatime.com/badge/github/SaulSandovalM/Financieros)
