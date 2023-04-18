@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Actualmente trabajo en la Comunidad de HackSite.
+- 🔭 Actualmente trabajo en en mi canal de YouTube.
 - 🌱 Siempre estoy tratando de aprender algo nuevo.
 - 👯 Quiero hacer Open Source.
 - 🤔 Quiza necesite ayuda con bases de datos.
