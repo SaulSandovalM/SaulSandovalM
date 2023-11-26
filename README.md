@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Actualmente trabajo en en mi canal de YouTube.
+- 🔭 Actualmente trabajo en mi canal de YouTube.
 - 🌱 Siempre estoy tratando de aprender algo nuevo.
 - 👯 Quiero hacer Open Source.
 - 🤔 Quiza necesite ayuda con bases de datos.
